@@ -2,6 +2,9 @@
 
 
 
+<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/caace713-0619-401f-84df-d5ea654ba0f9" />
+
+
 
 
 # ⚡ EV Guardian AI
